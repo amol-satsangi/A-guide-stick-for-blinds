@@ -16,6 +16,5 @@ The smart stick system for assisting blind people . Visually impaired people use
 7.	Other materials like : glue,tape etc........
  
  
- 
 # Working:-
 Obstacle Detection : When an object is detected within 3 meter range of the stick, a buzzer rings. For this project, only a single Ultrasonic Sensor Module was used. Thus, it can detect obstacle within 15 degree sector of the sensor. 
