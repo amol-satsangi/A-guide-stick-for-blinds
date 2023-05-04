@@ -1,4 +1,4 @@
-Smart-Blind-Stick
+**Smart-Blind-Stick:-**
 Smart Blind Stick along with Digispark to help a person to detect the object from a distance.
 The smart stick system for assisting blind people . Visually impaired people use stick to find difficulties in detecting obstacles and danger in front of them during walking and to identify the world around .
 
